@@ -1,0 +1,7 @@
+<odoo>
+  <record id="action_leave_request" model="ir.actions.act_window">
+    <field name="name">Leave Requests</field>
+    <field name="res_model">leave.request</field>
+    <field name="view_mode">tree,form</field>
+  </record>
+</odoo>

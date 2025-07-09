@@ -1,0 +1,15 @@
+<!-- leave_request_menus.xml -->
+<odoo>
+  <!-- Top-level app menu -->
+  <menuitem id="leave_request_main_menu"
+            name="Leave Management"
+            sequence="10"
+            web_icon="leave_request_system,static/description/icon.png"/>
+
+  <!-- Submenu (with action) -->
+  <menuitem id="leave_request_sub_menu"
+            name="Leave Requests"
+            parent="leave_request_main_menu"
+            action="action_leave_request"
+            sequence="1"/>
+</odoo>
