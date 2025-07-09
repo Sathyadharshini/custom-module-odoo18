@@ -1,1 +1,4 @@
 # custom-module-odoo18
+
+
+The Leave Request System is a custom Odoo module that allows employees to easily submit leave requests and managers to approve or reject them through a structured and user-friendly interface. Built specifically for internal HR needs, this module adds a streamlined workflow where each request includes details such as leave type, start and end dates, and a reason. Employees can track their leave status, while managers are provided with access rights to take actions accordingly. This module is lightweight and easy to install, making it suitable for small to medium-sized businesses that want to manage leave operations directly within Odoo. It includes features such as custom access control, form and tree views, and proper menu navigation under the Human Resources section. Designed with simplicity in mind, the Leave Request System can be extended or customized further based on organizational requirements.
